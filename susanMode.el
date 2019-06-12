@@ -45,4 +45,4 @@
   (setq font-lock-defaults '(susan-font-lock-keywords nil nil))
   (setq tab-width susan-basic-offset)
   (setq tab-stop-list '(2)))
-(provide 'modelica-mode)
+(provide 'susan-mode)
